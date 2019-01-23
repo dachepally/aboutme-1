@@ -12,8 +12,11 @@ This repository is done as an assignment which tells about my first webpage I pu
 ## Recommended Tools
 
 - [Notepad++](https://notepad-plus-plus.org/download/v7.6.2.html) This is used to edit the webpage content.
+- [Tortise git](https://tortoisegit.org/download) This is used to create repos and commit the changes.
 
 ## Recommended Resources
+
+
 
 ## Contributors
 
