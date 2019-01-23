@@ -2,10 +2,8 @@
 
 ## Reposiroty Links
 
-https://redhug.github.io/working-with-markdown/
-
-- [Webpage](https://github.com/redhug/working-with-markdown)
-- [Webpage](https://redhug.github.io/working-with-markdown)
+- [Repo link](https://github.com/redhug/working-with-markdown)
+- [My sample page](https://redhug.github.io/working-with-markdown)
 
 ## About
 
