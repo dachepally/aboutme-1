@@ -11,7 +11,7 @@ This repository is done as an assignment which tells about my first webpage I pu
 
 ## Recommended Tools
 
-- [Node js](https://nodejs.org/en/download/)
+- [Notepad++](https://notepad-plus-plus.org/download/v7.6.2.html) This is used to edit the webpage content.
 
 ## Recommended Resources
 
