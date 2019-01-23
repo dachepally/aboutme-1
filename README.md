@@ -16,7 +16,10 @@ This repository is done as an assignment which tells about my first webpage I pu
 
 ## Recommended Resources
 
+Following are some links which will be helpful for creating repo's and webpages
 
+- [Getting started](https://guides.github.com/features/pages/)
+- [GitHub flow](https://guides.github.com/introduction/flow/)
 
 ## Contributors
 
