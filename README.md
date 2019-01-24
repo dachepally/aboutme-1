@@ -7,16 +7,16 @@
 
 ## About
 
-This repository is done as an assignment which tells about my first webpage I published.
+This repository is done as an assignment which tells about my first web-page I published.
 
 ## Recommended Tools
 
-- [Notepad++](https://notepad-plus-plus.org/download/v7.6.2.html) This is used to edit the webpage content.
-- [Tortise git](https://tortoisegit.org/download) This is used to create repos and commit the changes.
+- [Notepad++](https://notepad-plus-plus.org/download/v7.6.2.html) This is used to edit the web-page content.
+- [Tortoise git](https://tortoisegit.org/download) This is used to create repo's and commit the changes.
 
 ## Recommended Resources
 
-Following are some links which will be helpful for creating repo's and webpages
+Following are some links which will be helpful for creating repo's and web-pages
 
 - [Getting started](https://guides.github.com/features/pages/)
 - [GitHub flow](https://guides.github.com/introduction/flow/)
