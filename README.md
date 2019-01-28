@@ -20,6 +20,7 @@ Following are some links which will be helpful for creating repo's and web-pages
 
 - [Getting started](https://guides.github.com/features/pages/)
 - [GitHub flow](https://guides.github.com/introduction/flow/)
+- [HTML](https://www.w3schools.com/html/)
 
 ## Contributors
 
