@@ -27,3 +27,8 @@ Following are some links which will be helpful for creating repo's and web-pages
 My name is Pavan Kumar Reddy Byreddy and currently I am pursuing my Masters in ACS
 
 ![Github image](https://blog.appcanary.com/images/appcanary-joins-github-white2.png)
+
+## References
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/cssref/)
