@@ -1,0 +1,79 @@
+<!doctype html>
+
+<html>
+<link href="./static/p2.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+<head>
+<script src="./static/p2.js"></script>
+    <title>44563-03</title>
+	<meta charset="utf-8">
+    <meta name="author" content="Pavan Kumar Reddy">
+</head>
+
+
+
+<body>
+ <div> 
+<nav>
+      <div class="mainmenu" id="navBox">
+        
+		<div class="mg-right5 pull-left">
+            <a class="" href="index.html" style="color: #19232b;text-decoration: underline;">Home <span class="sr-only">(current)</span></a>
+          
+		  </div>
+		  <div class="mg-right5 pull-left">
+            <a class="" href="contact.html" style="color: #19232b; text-decoration: underline;">Contact</a>
+          
+		  </div>
+		  <div class="">
+            <a class="" href="calc.html" style="color: #19232b; text-decoration: underline;">Calculator</a>
+          
+		  </div>
+       
+      </div>
+    </nav>
+	</div>
+    <header>
+        <h1>Calculator</h1>
+    </header>
+      
+    <br>
+    <hr>
+	<section class="calculator">
+	<div>
+	<div style= "width:50%" class="pull-left mg-bottom5">
+            <div class="mg-top5">
+                <label>Enter 1st value</label>
+                <input id="value1" type="number" style="width:50%" placeholder="Value 1">
+              </div>
+			  <div class="mg-top5">
+                <label>Enter 2st value</label>
+                <input id="value2" type="number" style="width:50%" placeholder="Value 2">
+              </div>
+			  <div class="mg-top5">
+              <div class="pull-left mg-right5 mg-left5"><input type="button" class="btnStyle" style="width:100%" value="Sum" id="sum" onclick="sum()"/></div>
+			  <div class="pull-left mg-right5"><input type="button" class="btnStyle" style="width:100%" value="Difference" id="diff" onclick="diff()"/></div>
+			  <div class="pull-left mg-right5"><input type="button" class="btnStyle" style="width:100%" value="Multiply" id="mul" onclick="mul()"/></div>
+			  <div class="pull-left mg-right5"><input type="button" class="btnStyle" style="width:100%" value="Divide" id="div" onclick="div()"/></div>
+			  </div>
+			 </div>
+			
+	 <div id="result" class="pull-left result"></div>
+
+	 </div>
+			  
+            </section>
+	
+	
+   <div class="clear_fix">
+	<hr>
+    <footer >
+        &copy; Pavan Kumar Reddy
+    </footer>
+</div>
+
+
+</body>
+
+</html>
