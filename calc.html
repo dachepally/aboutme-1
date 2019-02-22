@@ -4,10 +4,12 @@
 
 
 <head>
-    <script src="./static/p2.js"></script>
+ 
 	<link href="./static/p2.css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-    <title>44563-03</title>
+
+    <title>Pavan Kumar Reddy</title>
     <meta charset="utf-8">
     <meta name="author" content="Pavan Kumar Reddy">
 </head>
@@ -18,7 +20,10 @@
     <div>
         <nav>
             <div class="mainmenu" id="navBox">
+				<div class="mg-right5 pull-left">
+                    <P class="" href="index.html" style="color: #19232b;">Pavan</P>
 
+                </div>
                 <div class="mg-right5 pull-left">
                     <a class="" href="index.html" style="color: #19232b;text-decoration: underline;">Home <span class="sr-only">(current)</span></a>
 
@@ -43,24 +48,34 @@
     <hr>
     <section class="calculator">
         <div>
-            <div style="width:50%" class="pull-left mg-bottom5">
+            <div style="width:50%" id="calcCont" class="pull-left mg-bottom5">
                 <div class="mg-top5">
                     <label>Enter 1st value</label>
-                    <input id="value1" type="number" style="width:50%" placeholder="Value 1">
+                    <input id="value1" style="width:50%" placeholder="Value 1">
                 </div>
                 <div class="mg-top5">
                     <label>Enter 2st value</label>
-                    <input id="value2" type="number" style="width:50%" placeholder="Value 2">
+                    <input id="value2" style="width:50%" placeholder="Value 2">
                 </div>
                 <div class="mg-top5">
-                    <div class="pull-left mg-right5 mg-left5"><input type="button" class="btnStyle" style="width:100%"
-                            value="Sum" id="sum" onclick="sum()" /></div>
-                    <div class="pull-left mg-right5"><input type="button" class="btnStyle" style="width:100%" value="Difference"
-                            id="diff" onclick="diff()" /></div>
-                    <div class="pull-left mg-right5"><input type="button" class="btnStyle" style="width:100%" value="Multiply"
-                            id="mul" onclick="mul()" /></div>
-                    <div class="pull-left mg-right5"><input type="button" class="btnStyle" style="width:100%" value="Divide"
-                            id="div" onclick="div()" /></div>
+                    <div class="pull-left mg-right5 mg-left5">
+					<button class="btnStyle" style="width:100%"
+                            id="sum" onclick="" > Sum </button>
+					</div>
+                    <div class="pull-left mg-right5">
+					<button class="btnStyle" style="width:100%"
+                             id="diff" onclick="diff()" > Diff </button>
+							</div>
+                    <div class="pull-left mg-right5">
+					<button class="btnStyle" style="width:100%"
+                             id="mul" onclick="mul()" > Mul </button>
+				
+							</div>
+                    <div class="pull-left mg-right5">
+					<button class="btnStyle" style="width:100%"
+                             id="div" onclick="div()" > Div </button>
+
+							</div>
                 </div>
             </div>
 
@@ -69,7 +84,15 @@
         </div>
 
     </section>
+<div class="clear_fix" >
+<P id="mouseOverExamp" class="mouseOver" onmouseover="mouseHOver()" onmouseout="mouseOut()">Place the cursor on me</P>
 
+</div>
+
+ <div class="mg-right5 pull-left">
+                    <a class="" href="qunit.html" style="color: #19232b;text-decoration: underline;">Click here for test results <span class="sr-only">(current)</span></a>
+
+                </div>
 
     <div class="clear_fix">
         <hr>
@@ -77,7 +100,8 @@
             &copy; Pavan Kumar Reddy
         </footer>
     </div>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+     <script src="./static/p2.js"></script> 
 
 </body>
 

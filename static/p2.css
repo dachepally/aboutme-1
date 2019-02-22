@@ -12,7 +12,11 @@
 table, td, th {
   border: 1px solid black;
 }
-
+.mouseOver{
+	font-size: 30px;
+    font-family: serif;
+    background-color: burlywood;
+}
 h1{
 	background: #c0c9d6;
     margin-bottom: -2% !important;
@@ -99,6 +103,8 @@ display: flex;
     padding: 15px;
     margin-top: 2em;
     margin-left: 3em;
+	width: 40%; 
+	margin-right: 10%;
   }
 #clicks{
 line-height: 4em;
@@ -157,4 +163,135 @@ line-height: 4em;
 }
 .pull-left{
 	float: left;
+}
+
+ @media screen and (max-width: 800px) {
+  /* .section3{
+    padding: 0.1px 3px 8px 1px !important; 
+    line-height: 1.3em !important;
+}
+*/
+.myself{
+	    clear: both;
+		margin-left: 0% !important;
+		width: 100%;
+}
+.history{
+	    padding-bottom: 13% !important;
+		width: 100%;
+}
+.hobby{
+	    width: 100%;
+		margin-left: 0%;
+		margin-bottom: 10%;
+}
+.video{
+	max-width: 66%;
+}
+#article1 {
+    margin-left: 0% !important;
+}
+.mainmenu{
+	    font-size: 20px !important;
+}
+h1{
+	font-size: 20px !important;
+}
+hr{
+	    margin-top: 0Px !important;
+} 
+aside{
+	    clear: both;
+}
+.img-circle {
+    margin-bottom: 8%;
+}
+.container{
+display: block !important;
+}
+#hobby{
+	margin-top: 0% !important;
+}
+#imgQues{
+	margin-top: 10%;
+}
+.formcontainer{
+	    margin-left: 0% !important;
+		width:60% !important;
+}
+.btnStyle {
+	    font-size: 12px!important;
+}
+#calcCont{
+	width:100% !important;
+	    margin-left: 2%;
+}
+.result {
+    width: 100%;
+    font-size: 1.5em!important;
+    margin-bottom: 10%;
+}
+}
+ @media screen and (max-width: 500px) {
+	
+	.myself{
+	    clear: both;
+		margin-left: 0% !important;
+		width: 100%;
+}
+.history{
+	    padding-bottom: 13% !important;
+		width: 100%;
+}
+.hobby{
+	    width: 100%;
+		margin-left: 0%;
+		margin-bottom: 10%;
+}
+.video{
+	max-width: 66%;
+}
+#article1 {
+    margin-left: 0% !important;
+}
+.mainmenu{
+	    font-size: 20px !important;
+}
+h1{
+	font-size: 20px !important;
+}
+hr{
+	    margin-top: 0Px !important;
+} 
+aside{
+	    clear: both;
+}
+.img-circle {
+    margin-bottom: 8%;
+}
+.container{
+display: block !important;
+}
+#hobby{
+	margin-top: 0% !important;
+}
+#imgQues{
+	margin-top: 10%;
+}
+.formcontainer{
+	    margin-left: 0% !important;
+		width:60% !important;
+}
+.btnStyle {
+	    font-size: 12px!important;
+}
+#calcCont{
+	width:100% !important;
+	    margin-left: 2%;
+}
+.result {
+    width: 100%;
+    font-size: 1.5em!important;
+    margin-bottom: 10%;
+}
 }

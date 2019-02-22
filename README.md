@@ -32,3 +32,5 @@ My name is Pavan Kumar Reddy Byreddy and currently I am pursuing my Masters in A
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/cssref/)
+- [Using Ajax and API's](https://www.youtube.com/watch?v=fEYx8dQr_cQ/)
+- [Qunit](https://qunitjs.com/cookbook/)
