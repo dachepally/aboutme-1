@@ -55,6 +55,13 @@ table {
     font-weight: bold!important;
     font-size: 18px!important;
 }
+.testResults{
+	color: #19232b;
+    text-decoration: underline;
+    font-style: oblique;
+    font-family: cursive;
+    font-size: 1.3em;
+}
 input, textarea{
 	width: 75%;
     padding: 2% 10px;
