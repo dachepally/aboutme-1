@@ -104,3 +104,9 @@ QUnit.test('Div test 5',function(assert){
 	let sum=getdiv('22','2');
 	assert.strictEqual(sum,11,'Div is correct');
 });
+
+
+QUnit.test('Div test 6',function(assert){
+	let sum=getdiv('a','2');
+	assert.strictEqual(sum,11,'Div is correct');
+});
